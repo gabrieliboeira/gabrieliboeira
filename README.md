@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=30&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Gabrieli!+🧬%3BCientista+de+Dados+em+formação+👩‍💻%3BInteressada+en+IA+e+Machine+Learning+🤖%3BAtualmente+estudando+na+Faculdade+Donaduzzi" alt="Efeito Typewriter" />
-</p>
-
+# Olá, eu sou a Gabi! 
 Sou estudante de **Ciência de Dados** na Faculdade Donaduzzi. 
 
 ### 🚀 O que eu faço
