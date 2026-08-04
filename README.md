@@ -1,4 +1,6 @@
-# Olá, eu sou a Gabi! 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Gabi!+👋;Sou+Gabrieli+Cavalcante+Boeira;Cientista+de+Dados+em+formação;Apaixonada+por+IA+e+Visão+Computacional" alt="Typing SVG" />
+</p> 
 
 Sou estudante de **Ciência de Dados** na Faculdade Donaduzzi. 
 
