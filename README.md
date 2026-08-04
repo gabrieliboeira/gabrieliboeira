@@ -1,4 +1,4 @@
-# Olá, eu sou a Gabi! 👋
+# Olá, eu sou a Gabi! 
 
 Sou estudante de **Ciência de Dados** na Faculdade Donaduzzi. 
 
