@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrieliboeira/gabrieliboeira/main/assets/cat-walking.svg" width="450"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
