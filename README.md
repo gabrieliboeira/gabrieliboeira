@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:79C0FF&height=200&section=header&text=Gabrieli%20Cavalcante%20Boeira&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cientista%20de%20Dados%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=20" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=monospace&size=40&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&lines=Gabrieli+Cavalcante+Boeira%3BCientista+de+Dados+em+forma%C3%A7%C3%A3o" alt="Texto Dinâmico" />
   </a>
