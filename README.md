@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:79C0FF&height=200&section=header&text=Gabrieli%20Cavalcante%20Boeira&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cientista%20de%20Dados%20em%20forma%C3%A7%C3%A3o&descAlignY=55&descSize=20" width="100%"/>
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
