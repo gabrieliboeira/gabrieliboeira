@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabrieliboeira/gabrieliboeira/main/assets/cat-walking.svg" width="450"/>
+  <img src="https://raw.githubusercontent.com/gabrieliboeira/gabrieliboeira/main/cat-walking.svg" width="450"/>
 </p>
 
 <p align="center">
